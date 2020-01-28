@@ -244,15 +244,15 @@
 				<Item Name="Test Logger API.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/Test Logger API.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
-				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
-				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
 				<Item Name="Not A Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Not A Rendezvous.vi"/>
 				<Item Name="Rendezvous Name &amp; Ref DB.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB.vi"/>
-				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
+				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
 				<Item Name="RemoveNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/RemoveNamedRendezvousPrefix.vi"/>
 				<Item Name="Destroy A Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy A Rendezvous.vi"/>
 				<Item Name="Destroy Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy Rendezvous.vi"/>
+				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
+				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
+				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Logger.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
@@ -429,15 +429,15 @@
 				<Item Name="Get Text Rect.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
-				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
-				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
 				<Item Name="Not A Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Not A Rendezvous.vi"/>
 				<Item Name="Rendezvous Name &amp; Ref DB.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Rendezvous Name &amp; Ref DB.vi"/>
-				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
+				<Item Name="GetNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/GetNamedRendezvousPrefix.vi"/>
 				<Item Name="RemoveNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/RemoveNamedRendezvousPrefix.vi"/>
 				<Item Name="Destroy A Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy A Rendezvous.vi"/>
 				<Item Name="Destroy Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Destroy Rendezvous.vi"/>
+				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
+				<Item Name="Create New Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
+				<Item Name="Create Rendezvous.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="../../../../Delacor/PPLs/CML_Acquisition.lvlibp/1abvi3w/vi.lib/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
@@ -644,33 +644,33 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="CML" Type="EXE">
+			<Item Name="Executable for CML depending on PPLs Demo" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{D11DDA0E-CF68-4CF3-9E49-7FAB2331EAEE}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{B1DEB030-9EA2-4911-82E7-FBDAB2219C96}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{C3A5E482-B4AE-41F6-9263-96B163C9C21E}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">CML</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Executable for CML depending on PPLs Demo</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/CML</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Executable for CML depending on PPLs Demo</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/Support/Launcher Support.lvlib/Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F99CC542-5CD4-4BE2-9746-576CE11E803B}</Property>
 				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">CML.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/CML/CML.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">CML-PPL-GDevCon1-Demo.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Executable for CML depending on PPLs Demo/CML-PPL-GDevCon1-Demo.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/CML/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Executable for CML depending on PPLs Demo/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{668CDF86-15D6-4BC0-B49C-30F503EF724D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F6930F3C-9A47-47A1-8BE2-CEDD3955021A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/CML Main.vi</Property>
@@ -678,12 +678,12 @@
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Delacor</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">CML</Property>
-				<Property Name="TgtF_internalName" Type="Str">CML</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Executable for CML depending on PPLs Demo</Property>
+				<Property Name="TgtF_internalName" Type="Str">Executable for CML depending on PPLs Demo</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2018 Delacor</Property>
-				<Property Name="TgtF_productName" Type="Str">CML</Property>
+				<Property Name="TgtF_productName" Type="Str">Executable for CML depending on PPLs Demo</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5F896DD4-E3AF-4E6C-B723-CD0961BE88A6}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CML.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CML-PPL-GDevCon1-Demo.exe</Property>
 			</Item>
 		</Item>
 	</Item>
