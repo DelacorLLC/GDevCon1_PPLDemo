@@ -24,4 +24,7 @@ This repository relies in other repositories.
 * DQMH 4.2 installed via VIPM
 * The code expects to find PPLS at C:\Delacor\PPLs
 * Extract the contents of the PPLs/CML DQMH PPL Demo PPLs.zip into C:\Delacor\PPL
-* Alternatively, you can build a new version of the PPLs by going through each subrepository, opening the projects and building the PPLs.
+* Alternatively, you can build a new version of the PPLs by going through each subrepository, 
+opening the projects and building the PPLs. It is always a good idea to build your PPLs in a different computer than the
+computer you are doing development in.
+Before building a PPL, make sure the PPL you are trying to build is not already in the destination folder.
